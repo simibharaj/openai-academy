@@ -1,0 +1,9 @@
+# Prepared application baseline
+
+Existing routes: /, /about, /contact, and /docs.
+Shared navigation: components/Navbar.tsx.
+Shared page layout: components/ContentPage.tsx.
+Validation commands: pnpm lint and pnpm typecheck.
+
+The Resources and Guides pages and reusable page-delivery skill have not been
+created. Preserve the existing routes and navigation when adding new pages.
